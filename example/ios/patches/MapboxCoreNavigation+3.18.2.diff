@@ -1,7 +1,7 @@
-diff --git a/cocoapods-patch-20240804-36587-hvkjv9/MapboxCoreNavigation/Sources/MapboxCoreNavigation/Resources/PrivacyInfo.xcprivacy b/cocoapods-patch-20240804-36587-hvkjv9/MapboxCoreNavigation/Sources/MapboxCoreNavigation/Resources/PrivacyInfo.xcprivacy
+diff --git a/cocoapods-patch-20260220-MapboxCoreNavigation-3.18.2/MapboxCoreNavigation/Sources/MapboxCoreNavigation/Resources/PrivacyInfo.xcprivacy b/cocoapods-patch-20260220-MapboxCoreNavigation-3.18.2/MapboxCoreNavigation/Sources/MapboxCoreNavigation/Resources/PrivacyInfo.xcprivacy
 deleted file mode 100644
 index fce359a..0000000
---- a/cocoapods-patch-20240804-36587-hvkjv9/MapboxCoreNavigation/Sources/MapboxCoreNavigation/Resources/PrivacyInfo.xcprivacy
+--- a/cocoapods-patch-20260220-MapboxCoreNavigation-3.18.2/MapboxCoreNavigation/Sources/MapboxCoreNavigation/Resources/PrivacyInfo.xcprivacy
 +++ /dev/null
 @@ -1,63 +0,0 @@
 -<?xml version="1.0" encoding="UTF-8"?>
